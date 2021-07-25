@@ -1,9 +1,0 @@
-Commands to run the code for Face Detcetion and Video Detection.
-
-For Image Detectection.
-
-py detect_face_image.py i-sample.jpg
-
-For Video Detectection.
-
-py detect_face_video.py -c true
